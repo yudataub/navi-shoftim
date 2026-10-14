@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yudataub.github.io/navi-shoftim/sitemap.xml
+Sitemap: https://www.kol-toda.co.il/neviim/shoftim/sitemap.xml
